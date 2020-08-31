@@ -1,3 +1,3 @@
-# hello-world
-This's my first project
-I'm very glad. 
+# Projects
+These'are my study projects.
+I did them when I was training.
